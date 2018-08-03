@@ -11,10 +11,10 @@
     "enable": true,
     "host": "smtp.qiye.aliyun.com",
     "port": 465,
-    "from": "message@minws.com",
+    "from": "xxx@minws.com",
     "auth": {
-      "user": "message@minws.com",
-      "pass": "12345Qwert"
+      "user": "xxx@minws.com",
+      "pass": "xxx"
     }
   }
 }
